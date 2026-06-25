@@ -42,6 +42,8 @@ The application follows a **decoupled two-tier architecture** with a standalone 
 
 https://github.com/user-attachments/assets/383ecea0-66f1-448e-9998-0153f061f1d2
 
+---
+
 ## Backend Design (Express.js)
 
 ### Route Structure
